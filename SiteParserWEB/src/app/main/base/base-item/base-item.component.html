@@ -1,0 +1,12 @@
+<form class="form" name="form" [formGroup]="form">
+  <div class="fileText">
+    <input id="file-upload" type="file" (change)="changeListener($event)">
+  </div>
+
+  <div class="fileText">
+    <textarea rows="4" placeholder="input text" cols="50" formControlName="text"></textarea>
+    <input type="text" placeholder="input word" matInput formControlName="word">
+  </div>
+
+  <button (click)="save()" type="button">Search</button>
+</form>

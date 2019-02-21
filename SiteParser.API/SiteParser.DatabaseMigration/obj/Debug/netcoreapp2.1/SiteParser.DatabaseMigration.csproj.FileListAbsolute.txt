@@ -1,0 +1,9 @@
+C:\Disk_D\SiteParser\SiteParser.API\SiteParser.DatabaseMigration\bin\Debug\netcoreapp2.1\SiteParser.DatabaseMigration.deps.json
+C:\Disk_D\SiteParser\SiteParser.API\SiteParser.DatabaseMigration\bin\Debug\netcoreapp2.1\SiteParser.DatabaseMigration.dll
+C:\Disk_D\SiteParser\SiteParser.API\SiteParser.DatabaseMigration\bin\Debug\netcoreapp2.1\SiteParser.DatabaseMigration.pdb
+C:\Disk_D\SiteParser\SiteParser.API\SiteParser.DatabaseMigration\obj\Debug\netcoreapp2.1\SiteParser.DatabaseMigration.csprojAssemblyReference.cache
+C:\Disk_D\SiteParser\SiteParser.API\SiteParser.DatabaseMigration\obj\Debug\netcoreapp2.1\SiteParser.DatabaseMigration.csproj.CoreCompileInputs.cache
+C:\Disk_D\SiteParser\SiteParser.API\SiteParser.DatabaseMigration\obj\Debug\netcoreapp2.1\SiteParser.DatabaseMigration.AssemblyInfoInputs.cache
+C:\Disk_D\SiteParser\SiteParser.API\SiteParser.DatabaseMigration\obj\Debug\netcoreapp2.1\SiteParser.DatabaseMigration.AssemblyInfo.cs
+C:\Disk_D\SiteParser\SiteParser.API\SiteParser.DatabaseMigration\obj\Debug\netcoreapp2.1\SiteParser.DatabaseMigration.dll
+C:\Disk_D\SiteParser\SiteParser.API\SiteParser.DatabaseMigration\obj\Debug\netcoreapp2.1\SiteParser.DatabaseMigration.pdb
